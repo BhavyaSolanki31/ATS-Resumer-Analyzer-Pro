@@ -81,13 +81,14 @@ The analyzer evaluates resumes using multiple ATS-friendly criteria:
 | -------------------- | ------ |
 | Contact Information  | 10     |
 | Section Headers      | 15     |
-| Formatting           | 15     |
+| Formatting           | 10     |
 | Content Length       | 10     |
 | Dates Detection      | 10     |
 | Action Verbs         | 10     |
+| Resume Length        | 10     |
 | Quantifiable Results | 15     |
 | Online Presence      | 10     |
-| Resume Structure     | 5      |
+| Resume Structure     | 10     |
 
 Final ATS Score is normalized to a scale of 100.
 
